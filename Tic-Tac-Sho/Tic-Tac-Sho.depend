@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1665347169 source:c:\users\clay\documents\c\tic-tac-sho\main.c
+	<windows.h>
+	<windowsx.h>
+	<stdio.h>
+	<tchar.h>
+	"Resources.h"
+
+1665327069 source:c:\users\clay\documents\c\tic-tac-sho\resources.rc
+	"Resources.h"
+
+1665326897 c:\users\clay\documents\c\tic-tac-sho\resources.h
+
